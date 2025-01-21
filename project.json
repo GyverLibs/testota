@@ -27,7 +27,7 @@
       "parts": [
         {
           "path": "https://raw.githubusercontent.com/GyverLibs/testota/main/bin/esp32.bin",
-          "offset": 0
+          "offset": 65535
         }
       ]
     }
