@@ -17,7 +17,7 @@
       "chipFamily": "ESP32-C3",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/GyverLibs/testota/main/bin/v1c3.bin",
+          "path": "https://github.com/GyverLibs/testota/releases/latest/download/v2c3.bin",
           "offset": 0
         }
       ]
