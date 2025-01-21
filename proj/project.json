@@ -21,6 +21,15 @@
           "offset": 0
         }
       ]
+    },
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/GyverLibs/testota/main/bin/esp32.bin",
+          "offset": 0
+        }
+      ]
     }
   ]
 }
